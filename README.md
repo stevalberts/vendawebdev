@@ -1,6 +1,6 @@
 # vendaweb
 
-A new Flutter application.
+A new Flutter applications created by steven.
 
 ## Getting Started
 
