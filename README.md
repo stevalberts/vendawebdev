@@ -2,6 +2,8 @@
 
 # **Venda (vendaround.com)**
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 Venda is a location-based business platform that enables people to discover businesses around them. With Venda, you can sell or buy goods and services from vendors nearby.
 
 In this project you will see how flutter web was used to create a landing page for the app showcase.
@@ -16,4 +18,5 @@ To see live preview of this site.
 > 
 ![Venda screenshot](https://bit.ly/3qfJihq)
 > 
+
 > Written with [StackEdit](https://stackedit.io/).
