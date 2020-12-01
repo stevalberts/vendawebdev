@@ -2,7 +2,6 @@
 
 # **Venda (vendaround.com)**
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Venda is a location-based business platform that enables people to discover businesses around them. With Venda, you can sell or buy goods and services from vendors nearby.
 
