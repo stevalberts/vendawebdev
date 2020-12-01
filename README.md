@@ -14,9 +14,10 @@ To see live preview of this site.
 
 ![Venda](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
 
-> Google Playstore Link:  [Click here to Download Venda](https://bit.ly/2JQmnbH)
-> 
-![Venda screenshot](https://bit.ly/3qfJihq)
-> 
+> Google Playstore Link:  [Click here to Download Venda](https://bit.ly/2JQmnbH) 
+
+
+![screenshot](https://raw.githubusercontent.com/StevAlberts/vendawebdev/master/web/assets/screenshot.png)
+
 
 > Written with [StackEdit](https://stackedit.io/).
